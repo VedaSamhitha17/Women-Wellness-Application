@@ -34,7 +34,7 @@
             font-size:30px;
             text-decoration:none;
             }  
-.card{
+.cardu{
     position:relative;
     display:flex;
     flex-direction:column;
@@ -45,4 +45,5 @@
     font: italic small-caps bold 16px/2 cursive;
     height:100%;
     text-shadow: 0em;
+    text-align: center;
 } 
