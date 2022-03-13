@@ -25,8 +25,8 @@ function Details() {
           <h3>Symptoms</h3><br></br>
             <p>Shortness of breath</p>
             <p>Chest tightens or pains</p>
-            <p>Chest tightens or pains</p>
-            <p>Chest tightens or pains</p><br></br>
+            <p>Wheezing when exhaling which is common sign in of asthma in children</p>
+            <p>Trouble sleeping caused by shortness of breath, coughing or wheezing</p><br></br>
 
           <h3>Cure</h3><br></br>
             <p>Asthma cannot be cured.Some children with asthma will outgrow it by adulthood.</p><br></br>
