@@ -1,20 +1,17 @@
 import React from "react";
 import "./userprofile.css";
+
+
+
 function UserProfile() {
     return (
-    <>
-        <div class="container">
-		<div class="main">
-			<div class="topbar">
-				<a href="">logout</a>
-		        <a href="">Support</a>
-		        <a href="">Work</a>
-		        <a href="">Home</a>
-	        </div>
+        <>
+        <div>
+            <br></br>
 	        <div class="row">
 	            <div class="col-1 mt-1">
-			        <div class="card text-center sidebar">
-				         <div class="card-body">
+			        <div class="cardu text-center sidebar">
+				         <div class="cardu-body">
 					        <div class="mt-2">
                                 <h1 class="m-3 pt-3">User Profile</h1>
                                 <br></br>
@@ -24,10 +21,11 @@ function UserProfile() {
 					        </div>
 				        </div>
 			        </div>
+                    <br></br>
 		        <div class="col-1 mt-1">
-		        	<div class="card mb-3 content">
+		        	<div class="cardu mb-3 content">
 		        		<h1 class="m-3 pt-3">Additional Details</h1>
-		        		<div class="card-body">
+		        		<div class="cardu-body">
 		        			<div class="row">
 		        				<div class="col-md-3">
 		        					<h3>Full Name: Kavya Mohan </h3>
@@ -67,8 +65,10 @@ function UserProfile() {
 	        </div>
 	    </div>
         </div>
-	</div>
         </>
     );
+
+
 }
+
 export default UserProfile;
